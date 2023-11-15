@@ -9,3 +9,6 @@ Task 2: Unit Converter [Temperature Converter]
 
 Task 3: To-Do List Application Development
 ![2023-11-05](https://github.com/student-abhijnan/MotionCutInternship/assets/143992189/7b4f5703-6c49-47d4-9c54-edf1cd15c987)
+
+Task 4: Text-Based Adventure Game
+![2023-11-15](https://github.com/student-abhijnan/MotionCutInternship/assets/143992189/a77249c5-a7bf-42ac-9053-6c283a110387)
